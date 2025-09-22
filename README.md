@@ -70,17 +70,17 @@
 
   1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?
 
-  2. Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya!
+  2. Apa perbedaan dari tag p dengan tag br, berikan penjelasannya!
 
-  - <p> membuat blok teks terpisah dengan jarak antar paragraf.
+  - p : membuat blok teks terpisah dengan jarak antar paragraf.
     
-  - <br> hanya memecah baris dalam satu paragraf tanpa jarak tambahan.
+  - br : hanya memecah baris dalam satu paragraf tanpa jarak tambahan.
 
   3. Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya!
 
-  - <title> Tooltip saat mouse diarahkan ke atas gambar
+  - title : Tooltip saat mouse diarahkan ke atas gambar
 
-  - <alt> Teks alternatif jika gambar gagal dimuat / tidak muncul
+  - alt : Teks alternatif jika gambar gagal dimuat / tidak muncul
 
   4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
 
