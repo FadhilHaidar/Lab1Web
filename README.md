@@ -70,13 +70,18 @@
 
   1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?
 
-  2. Apa perbedaan dari tag p dengan tag br, berikan penjelasannya!
+  - Tag (html) tidak memiliki atribut lang, yang berguna untuk mendeklarasikan bahasa dokumen.
+  - Karakter encoding tidak ditentukan, sehingga validator menggunakan default windows-1252, yang bisa menyebabkan kesalahan interpretasi karakter.
+  - Kamu menggunakan align="center" dan align="justify" pada tag <p>, padahal atribut ini sudah tidak direkomendasikan.
+  - Atribut src="Gambar Papercraft.jpg" tidak valid karena ada spasi di nama file.
 
-  - p : membuat blok teks terpisah dengan jarak antar paragraf.
+  2. Apa perbedaan dari tag (p) dengan tag (br), berikan penjelasannya!
+
+  - (p) : membuat blok teks terpisah dengan jarak antar paragraf.
     
-  - br : hanya memecah baris dalam satu paragraf tanpa jarak tambahan.
+  - (br) : hanya memecah baris dalam satu paragraf tanpa jarak tambahan.
 
-  3. Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya!
+  3. Apa perbedaan atribut title dan alt pada tag (img), berikan penjelasannya!
 
   - title : Tooltip saat mouse diarahkan ke atas gambar
 
