@@ -34,6 +34,8 @@
 
   <img width="959" height="232" alt="image" src="https://github.com/user-attachments/assets/7be59e29-8cc8-43f8-8bc9-a2e8e14a4f0e" />
 
+<>
+
   b. Menambahkan judul
 
   Mahasiswa dapat menambahkan judul pada halaman HTML dengan menggunakan tag heading h1 hingga h6, di mana h1 menunjukkan judul utama dan h6 menunjukkan subjudul paling kecil. Tag heading ini digunakan untuk memberi struktur hierarki pada konten web, sehingga pembaca dan mesin pencari dapat memahami bagian-bagian penting dari halaman. Judul ditulis sebelum paragraf dan akan tampil lebih besar atau lebih tebal sesuai level heading yang digunakan.
