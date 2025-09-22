@@ -34,7 +34,7 @@
 
   <img width="959" height="232" alt="image" src="https://github.com/user-attachments/assets/7be59e29-8cc8-43f8-8bc9-a2e8e14a4f0e" />
 
-<>
+ 
 
   b. Menambahkan judul
 
@@ -46,6 +46,8 @@
 
   <img width="958" height="346" alt="image" src="https://github.com/user-attachments/assets/12ac8823-6f74-41e5-be64-fdde73cf411e" />
 
+ 
+
   c. Memformat Teks
 
   Untuk memformat teks agar tampil lebih menarik, mahasiswa dapat menggunakan tag seperti b untuk cetak tebal, i untuk cetak miring, mark untuk menyorot teks, dan sub atau sup untuk teks kecil di bawah atau di atas garis normal. Tag-tag ini diletakkan di dalam paragraf dan akan langsung memengaruhi tampilan teks saat halaman dibuka di browser. Pemformatan ini membantu menekankan bagian penting dari isi konten.
@@ -54,6 +56,8 @@
 
   <img width="957" height="135" alt="image" src="https://github.com/user-attachments/assets/15ad80ea-57a4-45ad-8f7c-74a407350531" />
 
+ 
+
   d. Menyisipkan Gambar
 
   Mahasiswa dapat menyisipkan gambar ke dalam halaman HTML dengan menggunakan tag img yang dilengkapi atribut src untuk menentukan lokasi file gambar, serta atribut tambahan seperti width, height, alt, dan title untuk mengatur ukuran dan deskripsi gambar. File gambar harus disimpan dalam folder yang sama dengan file HTML agar dapat ditampilkan dengan benar. Setelah tag ditambahkan, gambar akan muncul sesuai pengaturan atribut yang diberikan.
@@ -61,6 +65,8 @@
   <img width="591" height="72" alt="image" src="https://github.com/user-attachments/assets/908e77ae-e978-40cb-bc2e-e9b1b10f6274" />
 
   <img width="255" height="275" alt="image" src="https://github.com/user-attachments/assets/884cdbc9-41f4-4bf7-aae7-c2ffe2597529" />
+
+ 
 
   e. Menambahkan Hyperlink
 
@@ -73,6 +79,8 @@
   <img width="754" height="950" alt="image" src="https://github.com/user-attachments/assets/7b4aaa4f-17c7-4f8e-a745-98b17e5a68c0" />
 
   <img width="955" height="330" alt="image" src="https://github.com/user-attachments/assets/92cb92fb-5868-4c3a-ab1f-459505500b59" />
+
+ 
 
 5. Lakukan validasi dokumen html dengan mengakses http://validator.w3.org
 
