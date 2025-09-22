@@ -72,28 +72,28 @@
 
   2. Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya!
 
-    - <p> membuat blok teks terpisah dengan jarak antar paragraf.
+  - <p> membuat blok teks terpisah dengan jarak antar paragraf.
     
-    - <br> hanya memecah baris dalam satu paragraf tanpa jarak tambahan.
+  - <br> hanya memecah baris dalam satu paragraf tanpa jarak tambahan.
 
   3. Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya!
 
-    - <title> Tooltip saat mouse diarahkan ke atas gambar
+  - <title> Tooltip saat mouse diarahkan ke atas gambar
 
-    - <alt> Teks alternatif jika gambar gagal dimuat / tidak muncul
+  - <alt> Teks alternatif jika gambar gagal dimuat / tidak muncul
 
   4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
 
-    - Sebaiknya hanya isi salah satu atribut (biasanya width), **agar proporsi gambar tetap terjaga.** Contoh: <img src="foto.jpg" width="300">
+  - Sebaiknya hanya isi salah satu atribut (biasanya width), **agar proporsi gambar tetap terjaga.** Contoh: <img src="foto.jpg" width="300">
 
-    - Jika kamu isi **keduanya secara manual**, dan nilainya tidak sesuai rasio asli gambar, maka gambar bisa **terdistorsi** (terlalu lebar atau terlalu tinggi). Contoh: <img src="foto.jpg" width="300" height="100">
+  - Jika kamu isi **keduanya secara manual**, dan nilainya tidak sesuai rasio asli gambar, maka gambar bisa **terdistorsi** (terlalu lebar atau terlalu tinggi). Contoh: <img src="foto.jpg" width="300" height="100">
 
   5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
 
-    - _blank : Membuka link di tab baru
+  - _blank : Membuka link di tab baru
 
-    - self : Membuka link di tab yang sama (default)
+  - self : Membuka link di tab yang sama (default)
 
-    - _top : Membuka link di halaman utama (keluar dari frame)
+  - _top : Membuka link di halaman utama (keluar dari frame)
 
-    - _parent : Membuka link di frame induk jika ada
+  - _parent : Membuka link di frame induk jika ada
