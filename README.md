@@ -124,3 +124,21 @@
   - _parent : Membuka link di frame induk jika ada
 
    <img width="543" height="152" alt="image" src="https://github.com/user-attachments/assets/53227b30-3c23-4d5b-bd83-33d19c2fade6" />
+
+### Screenshot
+
+  1. lab1_tag_dasar.html
+  
+  <img width="784" height="949" alt="image" src="https://github.com/user-attachments/assets/23c1f2fd-4593-402b-8cad-9c9016bc35da" />
+  
+  <img width="793" height="840" alt="image" src="https://github.com/user-attachments/assets/34ce8782-9248-41fe-88a1-714b12880fe7" />
+  
+  <img width="958" height="996" alt="image" src="https://github.com/user-attachments/assets/46b687dd-16b5-4ae4-8b40-884ded0f95a5" />
+  
+  2. lab1_halaman2.html
+  
+  <img width="783" height="949" alt="image" src="https://github.com/user-attachments/assets/9e3df407-81d1-4842-b28d-6e5944f2fd11" />
+  
+  <img width="794" height="223" alt="image" src="https://github.com/user-attachments/assets/023366cf-0a56-451c-bde9-a97ead5d621f" />
+  
+  <img width="958" height="997" alt="image" src="https://github.com/user-attachments/assets/0f9ebeb2-aa30-416a-be04-27aafd4d4e3d" />
