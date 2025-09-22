@@ -72,33 +72,33 @@
 
   - Tag (html) tidak memiliki atribut lang, yang berguna untuk mendeklarasikan bahasa dokumen.
   - Karakter encoding tidak ditentukan, sehingga validator menggunakan default windows-1252, yang bisa menyebabkan kesalahan interpretasi karakter.
-  - Kamu menggunakan align="center" dan align="justify" pada tag <p>, padahal atribut ini sudah tidak direkomendasikan.
+  - Kamu menggunakan align="center" dan align="justify" pada tag (p), padahal atribut ini sudah tidak direkomendasikan.
   - Atribut src="Gambar Papercraft.jpg" tidak valid karena ada spasi di nama file.
 
   2. Apa perbedaan dari tag (p) dengan tag (br), berikan penjelasannya!
 
   - (p) : membuat blok teks terpisah dengan jarak antar paragraf.
-    
   - (br) : hanya memecah baris dalam satu paragraf tanpa jarak tambahan.
 
   3. Apa perbedaan atribut title dan alt pada tag (img), berikan penjelasannya!
 
   - title : Tooltip saat mouse diarahkan ke atas gambar
-
   - alt : Teks alternatif jika gambar gagal dimuat / tidak muncul
 
   4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
 
-  - Sebaiknya hanya isi salah satu atribut (biasanya width), **agar proporsi gambar tetap terjaga.** Contoh: <img src="foto.jpg" width="300">
+  <img width="585" height="110" alt="image" src="https://github.com/user-attachments/assets/a235c0e3-56d0-48b4-9a2e-6b887a8f70cc" />
 
-  - Jika kamu isi **keduanya secara manual**, dan nilainya tidak sesuai rasio asli gambar, maka gambar bisa **terdistorsi** (terlalu lebar atau terlalu tinggi). Contoh: <img src="foto.jpg" width="300" height="100">
+  <img width="475" height="273" alt="image" src="https://github.com/user-attachments/assets/22963b6a-afd3-4b1e-adae-f466f185b4ca" />
+
+  - Sebaiknya hanya isi salah satu atribut (biasanya width), **agar proporsi gambar tetap terjaga.**
+  - Jika kamu isi **keduanya secara manual**, dan nilainya tidak sesuai rasio asli gambar, maka gambar bisa **terdistorsi** (terlalu lebar atau terlalu tinggi).
 
   5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
 
+  <img width="543" height="152" alt="image" src="https://github.com/user-attachments/assets/53227b30-3c23-4d5b-bd83-33d19c2fade6" />
+
   - _blank : Membuka link di tab baru
-
   - self : Membuka link di tab yang sama (default)
-
   - _top : Membuka link di halaman utama (keluar dari frame)
-
   - _parent : Membuka link di frame induk jika ada
