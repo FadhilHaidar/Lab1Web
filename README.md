@@ -1,4 +1,4 @@
-<img width="622" height="559" alt="image" src="https://github.com/user-attachments/assets/daa8e017-24ec-484a-81a0-2eaa31d57e84" /># Tugas Praktikum 1: HTML Dasar 
+# Tugas Praktikum 1: HTML Dasar 
 
 1. Buatlah **Repository** baru dengan nama **Lab1Web.**
 
